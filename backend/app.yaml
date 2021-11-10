@@ -1,0 +1,7 @@
+runtime: nodejs14
+
+# env_variables:
+#   DB_USER: "root"
+#   DB_NAME: “posts"
+#   DB_PASS: "root"
+#   DB_INSTANCE: "trial-331402:us-central1:trial"
